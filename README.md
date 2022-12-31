@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frances Cornwall
 - 👀 I’m interested in pursuing a career using biology, statistics, and coding Python
 -   I graduated from Vassar College with a bachelor's degree in biology
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate in coding for biological data
 - 📫 You can reach me at frances_c@cox.net
 
