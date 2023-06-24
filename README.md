@@ -1,4 +1,4 @@
-Hi, I’m Frances Cornwall. I’m interested in pursuing a career using biology, statistics, and coding Python.
+Hi, I’m Frances Cornwall. I’m interested in frontend development and python.
 I graduated from Vassar College with a bachelor's degree in biology.
 I'm a former college tennis player who won the Matthew Vassar award.
 I’m currently looking for a role as a software engineer or data analyst.
