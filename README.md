@@ -6,7 +6,7 @@ I'm a former college tennis player who won the Matthew Vassar award.
 
 I’m currently looking for a role as a software engineer.
 
-I'm skilled at HTML, CSS, Javascript, React, Python, and Bash.
+I'm skilled at HTML, CSS, Javascript, React, and Python.
 
 You can reach me at fcornwall@alum.vassar.edu.
 
