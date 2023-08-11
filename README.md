@@ -1,14 +1,14 @@
 Hi, I’m Frances Cornwall. I’m interested in frontend development.
 
-I graduated from Vassar College with a bachelor's degree in biology, and decided to pursue software engineering after college.
-
-I'm a former college tennis player who won the Matthew Vassar award.
-
-I’m looking for a role as a frontend software engineer.
-
 Contributor to Webkit's WebInspectorUI
 
-My skills include HTML, CSS, Javascript, React, and Python.
+I graduated from Vassar College with a bachelor's degree in biology, and decided to pursue software engineering after college
+
+I'm a former college tennis player who won the Matthew Vassar award
+
+I’m looking for a role as a frontend software engineer
+
+My skills include HTML, CSS, Javascript, React, and Python
 
 You can reach me at fcornwall@alum.vassar.edu
 
