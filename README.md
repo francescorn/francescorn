@@ -10,7 +10,7 @@ Contributor to Webkit's WebInspectorUI
 
 My skills include HTML, CSS, Javascript, React, and Python.
 
-You can reach me at fcornwall@alum.vassar.edu.
+You can reach me at fcornwall@alum.vassar.edu
 
 <!---
 francescorn/francescorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
