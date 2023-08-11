@@ -6,7 +6,7 @@ I'm a former college tennis player who won the Matthew Vassar award.
 
 I’m looking for a role as a frontend software engineer.
 
-I'm currently a contributing to Webkit's WebInspectorUI
+Contributor to Webkit's WebInspectorUI
 
 My skills include HTML, CSS, Javascript, React, and Python.
 
