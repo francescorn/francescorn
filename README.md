@@ -6,7 +6,7 @@ I graduated from Vassar College with a bachelor's degree in biology, and decided
 
 I'm a former college tennis player who won the Matthew Vassar award
 
-I’m looking for a role as a frontend software engineer
+I’m looking for a role as a software engineer
 
 My skills include HTML, CSS, Javascript, React, C++, and Python
 
