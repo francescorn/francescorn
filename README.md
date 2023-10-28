@@ -1,15 +1,16 @@
 Hi, I’m Frances Cornwall
-Currently a contributor to Webkit's WebInspectorUI
 
-I graduated from Vassar College with a bachelor's degree in biology, and decided to pursue software engineering after college
+I am currently a contributor to Webkit's WebInspectorUI.
 
-I'm a former college tennis player who won the Matthew Vassar award
+I graduated from Vassar College with a bachelor's degree in biology, and decided to pursue software engineering after college.
 
-I’m looking for a role as a software engineer
+I'm a former college tennis player who won the Matthew Vassar award.
 
-My skills include HTML, CSS, Javascript, React, C++, and Python
+I’m looking for a role as a software engineer.
 
-You can reach me at fcornwall@alum.vassar.edu
+My skills include HTML, CSS, Javascript, React, C++, and Python.
+
+You can reach me at fcornwall@alum.vassar.edu.
 
 <!---
 francescorn/francescorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
