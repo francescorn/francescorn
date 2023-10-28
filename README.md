@@ -1,6 +1,6 @@
-Hi, I’m Frances Cornwall. I’m interested in frontend development.
+Hi, I’m Frances Cornwall. I’m interested in software engineering.
 
-Contributor to Webkit's WebInspectorUI
+Currently a contributor to Webkit's WebInspectorUI
 
 I graduated from Vassar College with a bachelor's degree in biology, and decided to pursue software engineering after college.
 
