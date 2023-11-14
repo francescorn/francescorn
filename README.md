@@ -1,4 +1,4 @@
-Hi, I’m Frances Cornwall
+I am Frances Cornwall.
 
 I am currently a contributor to Webkit's WebInspectorUI.
 
