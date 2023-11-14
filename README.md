@@ -2,7 +2,7 @@ Hi, I’m Frances Cornwall
 
 I am currently a contributor to Webkit's WebInspectorUI.
 
-I graduated from Vassar College with a bachelor's degree in biology, and decided to pursue software engineering after college.
+I graduated from Vassar College with a bachelor's degree in biology, and decided to pursue software engineering after college from my love of software and coding.
 
 I'm a former college tennis player who won the Matthew Vassar award.
 
