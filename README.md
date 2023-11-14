@@ -1,18 +1,18 @@
 I am Frances Cornwall.
 
-I am currently a contributor to Webkit's WebInspectorUI.
+I am a current contributor to Webkit's WebInspectorUI.
 
-I presented an All Fonts Feature at the Webkit Contributors Meeting in 2023.
+I proposed an All Fonts Feature at the Webkit Contributors Meeting 2023.
 
 I graduated from Vassar College with a bachelor's degree in biology.
 
-I decided to pursue software engineering after college from enjoying statistical software courses, the web developer's experience, and coding overall.
+I decided to pursue software engineering after college from enjoying statistical software courses, the web developer experience, and coding.
 
 I'm a former college tennis player who won the Matthew Vassar award.
 
-I play the piano and have written short pieces in my free time.
+I play the piano and write short pieces in my free time.
 
-I am looking for a role as a software engineer.
+I'm looking for a role as a software engineer.
 
 My skills include HTML, CSS, Javascript, React, C++, and Python.
 
