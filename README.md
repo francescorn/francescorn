@@ -10,8 +10,6 @@ I decided to pursue software engineering after college from enjoying statistical
 
 I'm a former college tennis player who won the Matthew Vassar award.
 
-I play the piano and write short pieces in my free time.
-
 I'm looking for a role as a software engineer.
 
 My skills include HTML, CSS, Javascript, React, C++, and Python.
