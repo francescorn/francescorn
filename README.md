@@ -6,7 +6,7 @@ I proposed an All Fonts Feature at the Webkit Contributors Meeting 2023.
 
 I graduated from Vassar College with a bachelor's degree in biology.
 
-I decided to pursue software engineering after college from enjoying statistical software courses, the web developer experience, and coding.
+I decided to pursue software engineering after college.
 
 I'm a former college tennis player who won the Matthew Vassar award.
 
