@@ -1,6 +1,6 @@
 I am Frances Cornwall.
 
-I am a current contributor to Webkit's WebInspectorUI.
+I am a current contributor to Webkit's WebInspectorUI and Chromium's DevTools.
 
 I proposed an All Fonts Feature at the Webkit Contributors Meeting 2023.
 
