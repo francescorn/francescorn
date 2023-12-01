@@ -14,13 +14,13 @@ Seeking a Role as a Software Engineer
 
 Technical Skills:
 
-HTML
-CSS
-Javascript
-React
-C++
-Regex
-Python
+- HTML
+- CSS
+- Javascript
+- React
+- C++
+- Regex
+- Python
 Contact: Email: frances_c@cox.net or fcornwall@alum.vassar.edu
 
 Note: Please refrain from sending any unsolicited emails. I take privacy seriously, and any spam or phishing emails will be reported.
