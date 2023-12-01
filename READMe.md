@@ -8,7 +8,7 @@ Bachelor's Degree in Biology from Vassar College
 
 Transitioned to Software Engineering Post-Graduation
 
-Former College Tennis Player, Matthew Vassar Award Winner
+Former College Women's Tennis Player, Matthew Vassar Award Winner
 
 Seeking a Role as a Software Engineer
 
