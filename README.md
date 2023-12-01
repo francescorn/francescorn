@@ -23,7 +23,7 @@ Technical Skills:
 - C++
 - Regex
 - Python
-- 
+  
 
 Contact:
 Email: frances_c@cox.net or fcornwall@alum.vassar.edu
