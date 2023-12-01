@@ -1,5 +1,6 @@
 Frances Cornwall
 
+
 WebKit WebInspectorUI Contributor
 
 Proposed "All Fonts" Feature at WebKit Contributors Meeting 2023
@@ -10,7 +11,9 @@ Transitioned to Software Engineering Post-Graduation
 
 Former College Tennis Player, Matthew Vassar Award Winner
 
+
 Seeking a Role as a Software Engineer
+
 
 Technical Skills:
 - HTML
@@ -20,6 +23,7 @@ Technical Skills:
 - C++
 - Regex
 - Python
+- 
 
 Contact:
 Email: frances_c@cox.net or fcornwall@alum.vassar.edu
