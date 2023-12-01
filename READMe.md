@@ -22,6 +22,8 @@ Technical Skills:
 - Regex
 - Python
 
-Contact: Email: frances_c@cox.net or fcornwall@alum.vassar.edu
+Contact:
+
+Email: frances_c@cox.net or fcornwall@alum.vassar.edu
 
 Note: I advise to refrain from sending any unsolicited emails. I take privacy seriously, and any spam or phishing emails will be reported.
