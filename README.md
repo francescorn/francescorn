@@ -1,22 +1,25 @@
-I am Frances Cornwall.
+Frances Cornwall
 
-I am a contributor to WebKit's WebInspectorUI.
+WebKit WebInspectorUI Contributor
+Proposed "All Fonts" Feature at WebKit Contributors Meeting 2023
+Bachelor's Degree in Biology from Vassar College
+Transitioned to Software Engineering Post-Graduation
+Former College Tennis Player, Matthew Vassar Award Winner
+Seeking a Role as a Software Engineer
 
-I proposed an All Fonts Feature at the WebKit Contributors Meeting 2023.
+Technical Skills:
+HTML
+CSS
+Javascript
+React
+C++
+Regex
+Python
 
-I graduated from Vassar College with a bachelor's degree in biology.
+Contact:
+Email: frances_c@cox.net or fcornwall@alum.vassar.edu
 
-I decided to pursue software engineering after college.
-
-I'm a former college tennis player who won the Matthew Vassar award.
-
-I'm looking for a role as a software engineer.
-
-My skills include HTML, CSS, Javascript, React, C++, Regex, and Python.
-
-You can reach me at frances_c@cox.net or fcornwall@alum.vassar.edu.
-
-Do not send me any spam or phishing emails, I will write report it.
+Note: Please refrain from sending any unsolicited emails. I take privacy seriously, and any spam or phishing emails will be reported.
 
 <!---
 francescorn/francescorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
