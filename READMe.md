@@ -24,4 +24,4 @@ Technical Skills:
 
 Contact: Email: frances_c@cox.net or fcornwall@alum.vassar.edu
 
-Note: Please refrain from sending any unsolicited emails. I take privacy seriously, and any spam or phishing emails will be reported.
+Note: I advise to refrain from sending any unsolicited emails. I take privacy seriously, and any spam or phishing emails will be reported.
