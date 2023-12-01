@@ -16,7 +16,7 @@ My skills include HTML, CSS, Javascript, React, C++, Regex, and Python.
 
 You can reach me at frances_c@cox.net or fcornwall@alum.vassar.edu.
 
-Do not send me any spam or phishing emails, I will write a report to the FBI.
+Do not send me any spam or phishing emails, I will possibly write a report to the FBI.
 
 <!---
 francescorn/francescorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
