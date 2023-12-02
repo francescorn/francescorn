@@ -26,4 +26,4 @@ Contact:
 
 Email: frances_c at cox.net or fcornwall at alum.vassar.edu
 
-Note: Kindly refrain from sending unsolicited emails to me. Any spam or phishing emails will be handled accordingly.
+Note: Any spam or phishing emails will be handled accordingly.
