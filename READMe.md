@@ -25,6 +25,6 @@ Technical Skills:
 
 Contact:
 
-Email me at frances_c at cox.net or fcornwall at alum.vassar.edu
+Email: frances_c at cox.net or fcornwall at alum.vassar.edu
 
 Note: Any spam or phishing emails will be handled accordingly
