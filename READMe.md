@@ -18,9 +18,10 @@ Technical Skills:
 - CSS
 - Javascript
 - React
-- C++
 - Regex
+- JSON
 - Python
+- C++
 
 Contact:
 
