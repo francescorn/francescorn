@@ -10,6 +10,8 @@ Transitioned to Software Engineering Post-Graduation
 
 Former College Women's Tennis Player, Matthew Vassar Award Winner
 
+Volunteer scribe for the CSS Working Group of the W3C
+
 Seeking a Role as a Software Engineer
 
 Technical Skills:
