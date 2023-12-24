@@ -6,7 +6,7 @@ MDN/browser-compat-data Contributor
 
 CSSWG Contributor and Scribe
 
-Proposed "All Fonts" Feature at WebKit Contributors Meeting 2023
+Proposed an All Fonts Feature at WebKit Contributors Meeting 2023
 
 Bachelor's Degree in Biology from Vassar College
 
@@ -14,7 +14,7 @@ Transitioned to Software Engineering Post-Graduation
 
 Former College Women's Tennis Player, Matthew Vassar Award Winner
 
-Seeking a Role as a Software Engineer
+Seeking a role as a Software Engineer
 
 Technical Skills:
 
