@@ -1,10 +1,8 @@
 Frances Cornwall
 
-WebKit WebInspectorUI Contributor
+WebKit/WebInspectorUI, MDN/browser-compat-data, CSS-WG Contributor
 
-MDN/browser-compat-data Contributor
-
-CSSWG Contributor and Scribe
+CSS-WG Scribe
 
 Proposed an All Fonts Feature at WebKit Contributors Meeting 2023
 
