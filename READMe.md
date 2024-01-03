@@ -17,9 +17,9 @@ Seeking a role as a Software Engineer
 Technical Skills:
 
 - Javascript
-- HTML
-- CSS
 - Python
+- CSS
+- HTML
 - React
 - Regex
 - JSON
