@@ -2,9 +2,9 @@ Frances Cornwall
 
 WebKit/WebInspectorUI, MDN/browser-compat-data, w3c/csswg-drafts
 
-Volunteer Scribe for the CSS-WG
+Volunteer scribe for the CSS-WG
 
-Seeking a role as a Software Engineer
+Seeking a role as a software engineer
 
 Technical Skills:
 
