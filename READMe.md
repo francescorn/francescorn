@@ -2,11 +2,11 @@ Frances Cornwall
 
 WebKit/WebInspectorUI, MDN/browser-compat-data, w3c/csswg-drafts
 
-Volunteer scribe for the CSS-WG
+A volunteer scribe for the CSS-WG
 
 Seeking a role as a software engineer
 
-Technical Skills:
+My technical skills:
 
 - Javascript
 - Python
