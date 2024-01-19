@@ -1,5 +1,7 @@
 Frances Cornwall
 
+Vassar College graduate
+
 WebKit/WebInspectorUI, w3c/csswg-drafts, MDN/browser-compat-data MDN/content
 
 A volunteer scribe for the CSS-WG
