@@ -19,6 +19,6 @@ My technical skills:
 - JSON
 - (C++)
 
-Contact information (please no spam):
+Contact information:
 
 Email: frances_c at cox.net or fcornwall at alum.vassar.edu
