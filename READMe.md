@@ -1,10 +1,10 @@
 Frances Cornwall
 
-WebKit/WebInspectorUI, MDN/browser-compat-data, w3c/csswg-drafts
+WebKit/WebInspectorUI, w3c/csswg-drafts, MDN/browser-compat-data MDN/content
 
 A volunteer scribe for the CSS-WG
 
-I am seeking a role as a software engineer
+Seeking a role as a software engineer.
 
 My technical skills:
 
@@ -17,6 +17,6 @@ My technical skills:
 - JSON
 - (C++)
 
-Contact:
+Contact information (please no spam):
 
 Email: frances_c at cox.net or fcornwall at alum.vassar.edu
