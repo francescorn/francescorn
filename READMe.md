@@ -17,7 +17,7 @@ My technical skills:
 - React
 - Regex
 - JSON
-- (C++)
+- C++
 
 Contact information:
 
